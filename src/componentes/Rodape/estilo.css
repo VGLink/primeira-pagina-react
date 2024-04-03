@@ -1,0 +1,16 @@
+.rodape{
+    background-color: #1b3675;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+    border-top: 1px #fff solid; 
+
+}
+
+.rodape-texto{
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
